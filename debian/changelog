@@ -1,0 +1,28 @@
+ros-indigo-fetch-auto-dock-msgs (0.6.0-0saucy) saucy; urgency=high
+
+  * add a dock_id field to dock action
+  * add url to package.xmls
+  * Contributors: Michael Ferguson
+
+ -- Michael Ferguson <mferguson@fetchrobotics.com>  Tue, 11 Aug 2015 07:00:00 -0000
+
+ros-indigo-fetch-auto-dock-msgs (0.5.2-0saucy) saucy; urgency=high
+
+  * release fetch_auto_dock_msgs package
+  * Contributors: Michael Ferguson
+
+ -- Michael Ferguson <mferguson@fetchrobotics.com>  Tue, 16 Jun 2015 07:00:00 -0000
+
+ros-indigo-fetch-auto-dock-msgs (0.5.1-0saucy) saucy; urgency=high
+
+
+
+ -- Michael Ferguson <mferguson@fetchrobotics.com>  Thu, 04 Jun 2015 23:49:00 -0000
+
+ros-indigo-fetch-auto-dock-msgs (0.5.0-0saucy) saucy; urgency=high
+
+
+
+ -- Michael Ferguson <mferguson@fetchrobotics.com>  Thu, 04 Jun 2015 19:46:00 -0000
+
+
