@@ -2,6 +2,12 @@
 Changelog for package fetch_driver_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.1 (2016-01-05)
+------------------
+* add new action for disabling charging
+* add notes on charging_mode
+* Contributors: Michael Ferguson
+
 0.6.0 (2015-08-11)
 ------------------
 * add new message for GripperState
