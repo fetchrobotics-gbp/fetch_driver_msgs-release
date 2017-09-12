@@ -1,3 +1,28 @@
+## fetch_msgs (indigo) - 1.0.0-0
+
+The packages in the `fetch_msgs` repository were released into the `indigo` distro by running `/usr/bin/bloom-release -r indigo -t indigo fetch_msgs` on `Tue, 12 Sep 2017 21:45:05 -0000`
+
+These packages were released:
+- `fetch_auto_dock_msgs`
+- `fetch_driver_msgs`
+
+Version of package(s) in repository `fetch_msgs`:
+
+- upstream repository: https://github.com/fetchrobotics/fetch_msgs.git
+- release repository: https://github.com/fetchrobotics-gbp/fetch_msgs-release.git
+- rosdistro version: `0.6.1-0`
+- old version: `0.6.1-0`
+- new version: `1.0.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.22`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.5.0`
+- vcstools version: `0.1.38`
+
+
 ## fetch_msgs (indigo) - 0.6.1-0
 
 The packages in the `fetch_msgs` repository were released into the `indigo` distro by running `/usr/bin/bloom-release -r indigo -t indigo fetch_msgs` on `Tue, 05 Jan 2016 20:35:36 -0000`
