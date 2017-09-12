@@ -2,6 +2,13 @@
 Changelog for package fetch_driver_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.0 (2017-09-12)
+------------------
+* Add SafetyLaserState message
+* Add Gyro message that includes more details about gyro.
+* Add LICENSE files.
+* Contributors: Derek King, Mac Mason, Michael Ferguson
+
 0.6.1 (2016-01-05)
 ------------------
 * add new action for disabling charging
