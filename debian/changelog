@@ -1,0 +1,61 @@
+ros-indigo-fetch-driver-msgs (1.0.1-0trusty) trusty; urgency=high
+
+  * updates ownership
+  * Merge pull request #11 <https://github.com/fetchrobotics/fetch_msgs/issues/11> from chadrockey/revert-10-safety_laser
+    Revert "Add header and remove unused information from SafetyLaserState"
+  * Revert "Add header and remove unused information from SafetyLaserState"
+  * Merge pull request #10 <https://github.com/fetchrobotics/fetch_msgs/issues/10> from chadrockey/safety_laser
+    Add header and remove unused information from SafetyLaserState
+  * Add header and remove unused information from SafetyLaserState
+  * Contributors: Chad Rockey, Russell Toris
+
+ -- Russell Toris <rtoris@fetchrobotics.com>  Tue, 10 Jul 2018 07:00:00 -0000
+
+ros-indigo-fetch-driver-msgs (1.0.0-0trusty) trusty; urgency=high
+
+  * Add Gyro message that includes more details about gyro.
+  * Add SafetyLaserState message
+  * Add LICENSE files.
+  * Contributors: Derek King, Mac Mason, Michael Ferguson
+
+ -- Michael Ferguson <mferguson@fetchrobotics.com>  Tue, 12 Sep 2017 07:00:00 -0000
+
+ros-indigo-fetch-driver-msgs (0.6.1-0trusty) trusty; urgency=high
+
+  * add new action for disabling charging
+  * add notes on charging_mode
+  * Contributors: Michael Ferguson
+
+ -- Michael Ferguson <mferguson@fetchrobotics.com>  Tue, 05 Jan 2016 08:00:00 -0000
+
+ros-indigo-fetch-driver-msgs (0.6.0-0trusty) trusty; urgency=high
+
+  * add new message for GripperState
+  * add url to package.xmls
+  * Contributors: Michael Ferguson
+
+ -- Michael Ferguson <mferguson@fetchrobotics.com>  Tue, 11 Aug 2015 07:00:00 -0000
+
+ros-indigo-fetch-driver-msgs (0.5.2-0trusty) trusty; urgency=high
+
+  * update license to BSD
+  * move fetch_driver_msgs into package folder
+  * Contributors: Michael Ferguson
+
+ -- Michael Ferguson <mferguson@fetchrobotics.com>  Tue, 16 Jun 2015 07:00:00 -0000
+
+ros-indigo-fetch-driver-msgs (0.5.1-0trusty) trusty; urgency=high
+
+  * Add balancing_mode to charger message. Change mode to charging_mode.
+  * Contributors: Derek King, Michael Ferguson
+
+ -- Michael Ferguson <mferguson@fetchrobotics.com>  Thu, 04 Jun 2015 07:00:00 -0000
+
+ros-indigo-fetch-driver-msgs (0.5.0-0trusty) trusty; urgency=high
+
+  * move messages into their own package
+  * Contributors: Michael Ferguson
+
+ -- Michael Ferguson <mferguson@fetchrobotics.com>  Thu, 04 Jun 2015 07:00:00 -0000
+
+
