@@ -1,3 +1,28 @@
+## fetch_msgs (melodic) - 1.1.1-0
+
+The packages in the `fetch_msgs` repository were released into the `melodic` distro by running `/usr/bin/bloom-release fetch_msgs --rosdistro melodic` on `Wed, 13 Feb 2019 23:16:13 -0000`
+
+These packages were released:
+- `fetch_auto_dock_msgs`
+- `fetch_driver_msgs`
+
+Version of package(s) in repository `fetch_msgs`:
+
+- upstream repository: https://github.com/fetchrobotics/fetch_msgs.git
+- release repository: https://github.com/fetchrobotics-gbp/fetch_msgs-release.git
+- rosdistro version: `1.1.0-0`
+- old version: `1.1.0-0`
+- new version: `1.1.1-0`
+
+Versions of tools used:
+
+- bloom version: `0.7.2`
+- catkin_pkg version: `0.4.3`
+- rosdep version: `0.15.0`
+- rosdistro version: `0.7.2`
+- vcstools version: `0.1.40`
+
+
 ## fetch_msgs (melodic) - 1.1.0-0
 
 The packages in the `fetch_msgs` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --rosdistro melodic --track melodic fetch_msgs --new-track` on `Fri, 13 Jul 2018 22:48:25 -0000`
