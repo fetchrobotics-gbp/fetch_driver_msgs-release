@@ -1,0 +1,55 @@
+ros-melodic-fetch-auto-dock-msgs (1.1.1-0bionic) bionic; urgency=high
+
+  * [REP-140] package.xml format=2 (#14 <https://github.com/fetchrobotics/fetch_msgs/issues/14>)
+    relates to issue fetchrobotics/fetch_ros#83 <https://github.com/fetchrobotics/fetch_ros/issues/83>
+  * Contributors: Alex Moriarty
+
+ -- Michael Ferguson <mferguson@fetchrobotics.com>  Wed, 13 Feb 2019 08:00:00 -0000
+
+ros-melodic-fetch-auto-dock-msgs (1.0.1-0bionic) bionic; urgency=high
+
+
+
+ -- Michael Ferguson <mferguson@fetchrobotics.com>  Tue, 10 Jul 2018 07:00:00 -0000
+
+ros-melodic-fetch-auto-dock-msgs (1.0.0-0bionic) bionic; urgency=high
+
+  * Add LICENSE files.
+  * Contributors: Mac Mason
+
+ -- Michael Ferguson <mferguson@fetchrobotics.com>  Tue, 12 Sep 2017 07:00:00 -0000
+
+ros-melodic-fetch-auto-dock-msgs (0.6.1-0bionic) bionic; urgency=high
+
+
+
+ -- Michael Ferguson <mferguson@fetchrobotics.com>  Tue, 05 Jan 2016 08:00:00 -0000
+
+ros-melodic-fetch-auto-dock-msgs (0.6.0-0bionic) bionic; urgency=high
+
+  * add a dock_id field to dock action
+  * add url to package.xmls
+  * Contributors: Michael Ferguson
+
+ -- Michael Ferguson <mferguson@fetchrobotics.com>  Tue, 11 Aug 2015 07:00:00 -0000
+
+ros-melodic-fetch-auto-dock-msgs (0.5.2-0bionic) bionic; urgency=high
+
+  * release fetch_auto_dock_msgs package
+  * Contributors: Michael Ferguson
+
+ -- Michael Ferguson <mferguson@fetchrobotics.com>  Tue, 16 Jun 2015 07:00:00 -0000
+
+ros-melodic-fetch-auto-dock-msgs (0.5.1-0bionic) bionic; urgency=high
+
+
+
+ -- Michael Ferguson <mferguson@fetchrobotics.com>  Thu, 04 Jun 2015 23:49:00 -0000
+
+ros-melodic-fetch-auto-dock-msgs (0.5.0-0bionic) bionic; urgency=high
+
+
+
+ -- Michael Ferguson <mferguson@fetchrobotics.com>  Thu, 04 Jun 2015 19:46:00 -0000
+
+
