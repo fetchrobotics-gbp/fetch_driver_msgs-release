@@ -1,0 +1,84 @@
+ros-noetic-fetch-driver-msgs (1.2.0-1buster) buster; urgency=high
+
+  * Noetic updates
+  * Add bool field if charger is detected or not
+  * Use std_msgs/Header for broader compatibility
+    Some ROS APIs may not accept the short version ("Header")
+    of the std_msgs/Header type.
+  * updates maintainers
+    Listed multiple individual maintainers and also included the internal
+    mailing list to ensure the load is distributed in the event of build
+    failures.
+  * Contributors: Alex Moriarty, Eric Relson, Russell Toris
+
+ -- Carl Saldanha <csaldanha@fetchrobotics.com>  Sun, 21 Feb 2021 08:00:00 -0000
+
+ros-noetic-fetch-driver-msgs (1.1.1-1buster) buster; urgency=high
+
+  * [REP-140] package.xml format=2 (#14 <https://github.com/fetchrobotics/fetch_msgs/issues/14>)
+    relates to issue fetchrobotics/fetch_ros#83 <https://github.com/fetchrobotics/fetch_ros/issues/83>
+  * Contributors: Alex Moriarty
+
+ -- Carl Saldanha <csaldanha@fetchrobotics.com>  Wed, 13 Feb 2019 08:00:00 -0000
+
+ros-noetic-fetch-driver-msgs (1.0.1-1buster) buster; urgency=high
+
+  * updates ownership
+  * Merge pull request #11 <https://github.com/fetchrobotics/fetch_msgs/issues/11> from chadrockey/revert-10-safety_laser
+    Revert "Add header and remove unused information from SafetyLaserState"
+  * Revert "Add header and remove unused information from SafetyLaserState"
+  * Merge pull request #10 <https://github.com/fetchrobotics/fetch_msgs/issues/10> from chadrockey/safety_laser
+    Add header and remove unused information from SafetyLaserState
+  * Add header and remove unused information from SafetyLaserState
+  * Contributors: Chad Rockey, Russell Toris
+
+ -- Carl Saldanha <csaldanha@fetchrobotics.com>  Tue, 10 Jul 2018 07:00:00 -0000
+
+ros-noetic-fetch-driver-msgs (1.0.0-1buster) buster; urgency=high
+
+  * Add Gyro message that includes more details about gyro.
+  * Add SafetyLaserState message
+  * Add LICENSE files.
+  * Contributors: Derek King, Mac Mason, Michael Ferguson
+
+ -- Carl Saldanha <csaldanha@fetchrobotics.com>  Tue, 12 Sep 2017 07:00:00 -0000
+
+ros-noetic-fetch-driver-msgs (0.6.1-1buster) buster; urgency=high
+
+  * add new action for disabling charging
+  * add notes on charging_mode
+  * Contributors: Michael Ferguson
+
+ -- Carl Saldanha <csaldanha@fetchrobotics.com>  Tue, 05 Jan 2016 08:00:00 -0000
+
+ros-noetic-fetch-driver-msgs (0.6.0-1buster) buster; urgency=high
+
+  * add new message for GripperState
+  * add url to package.xmls
+  * Contributors: Michael Ferguson
+
+ -- Carl Saldanha <csaldanha@fetchrobotics.com>  Tue, 11 Aug 2015 07:00:00 -0000
+
+ros-noetic-fetch-driver-msgs (0.5.2-1buster) buster; urgency=high
+
+  * update license to BSD
+  * move fetch_driver_msgs into package folder
+  * Contributors: Michael Ferguson
+
+ -- Carl Saldanha <csaldanha@fetchrobotics.com>  Tue, 16 Jun 2015 07:00:00 -0000
+
+ros-noetic-fetch-driver-msgs (0.5.1-1buster) buster; urgency=high
+
+  * Add balancing_mode to charger message. Change mode to charging_mode.
+  * Contributors: Derek King, Michael Ferguson
+
+ -- Carl Saldanha <csaldanha@fetchrobotics.com>  Thu, 04 Jun 2015 07:00:00 -0000
+
+ros-noetic-fetch-driver-msgs (0.5.0-1buster) buster; urgency=high
+
+  * move messages into their own package
+  * Contributors: Michael Ferguson
+
+ -- Carl Saldanha <csaldanha@fetchrobotics.com>  Thu, 04 Jun 2015 07:00:00 -0000
+
+
