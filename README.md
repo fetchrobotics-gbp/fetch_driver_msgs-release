@@ -1,3 +1,28 @@
+## fetch_msgs (noetic) - 1.2.0-1
+
+The packages in the `fetch_msgs` repository were released into the `noetic` distro by running `/usr/local/bin/bloom-release fetch_msgs --rosdistro noetic` on `Mon, 22 Feb 2021 04:30:16 -0000`
+
+These packages were released:
+- `fetch_auto_dock_msgs`
+- `fetch_driver_msgs`
+
+Version of package(s) in repository `fetch_msgs`:
+
+- upstream repository: https://github.com/fetchrobotics/fetch_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.2.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.0`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## fetch_msgs (melodic) - 1.1.1-0
 
 The packages in the `fetch_msgs` repository were released into the `melodic` distro by running `/usr/bin/bloom-release fetch_msgs --rosdistro melodic` on `Wed, 13 Feb 2019 23:16:13 -0000`
