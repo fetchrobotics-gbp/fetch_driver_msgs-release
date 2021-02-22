@@ -1,15 +1,18 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>fetch_driver_msgs</name>
-  <version>1.1.1</version>
+  <version>1.2.0</version>
   <description>
     Messages for the fetch_drivers package
   </description>
 
   <author>Michael Ferguson</author>
   <author>Derek King</author>
+  <maintainer email="csaldanha@fetchrobotics.com">Carl Saldanha</maintainer>
+  <maintainer email="erelson@fetchrobotics.com">Eric Relson</maintainer>
+  <maintainer email="selliott@fetchrobotics.com">Sarah Elliott</maintainer>
   <maintainer email="rtoris@fetchrobotics.com">Russell Toris</maintainer>
-  <maintainer email="amoriarty@fetchrobotics.com">Alex Moriarty</maintainer>
+  <maintainer email="opensource@fetchrobotics.com">Fetch Robotics Open Source Team</maintainer>
 
   <license>BSD</license>
   <url>http://wiki.ros.org/fetch_driver_msgs</url>
